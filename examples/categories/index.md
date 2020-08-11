@@ -69,6 +69,33 @@ This is code that is developed in the open with input from the community through
 ```markdown
 [![Community Project header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Project.png)](https://opensource.newrelic.com/oss-category/#community-project)
 ```
+## Category: [Community Plus Project](#category-community-plus-project)
+
+[![Community Plus header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Plus.png)](https://opensource.newrelic.com/oss-category/#community-plus)
+
+### Category Description
+
+This code is developed in the open with input from the community through issues and PRs. A New Relic engineering team serves as the maintainer. Troubleshooting support is available in the New Relic Explorers Hub, and documentation is available in the project repository and docs.newrelic.com.
+
+### Category Requirements
+
+- Complies with New Relic's legal and security requirements for open source software
+- Contains the appropriate New Relic open source category header in the repository's README file
+- Is maintained by a New Relic engineering team
+- Troubleshooting support via the New Relic Explorers Hub
+- Issues and PR’s managed in GitHub
+- For additional details on support options, see the [Open Source Support Policy](https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/global-technical-support-offerings)
+- Documentation reviewed by the New Relic documentation team
+- Linted code
+- An automated release pipeline
+
+### Code snippet
+
+**Required:** Copy and paste the following into the **top** of your project's README.
+
+```markdown
+[![Community Plus header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Plus.png)](https://opensource.newrelic.com/oss-category/#community-plus)
+```
 
 ## Category: [New Relic One Catalog Project](#category-new-relic-one-catalog-project)
 
